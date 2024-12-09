@@ -108,14 +108,3 @@ class Analyzer:
     def permutation_count(self):
         '''Computes the distinct permutations of faces rolled, along with their counts and returns a data frame with a MultiIndex of distinct permutations and a column for the associated counts. '''
 
-```python
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
